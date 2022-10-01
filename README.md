@@ -11,5 +11,6 @@ To do list:
 6. Some sort of level system within the tool, if a user was to use the tool multiple times they can have points them points are shown on the main page of the too, this would require a login page for the users.
 7. Add webpage support, have it so that the user can see or control the tool through the browser(if possible) 
 8. Add a opton for a simple HTTP server 
+9. set wifi addapter to monitor mode for packet injection.
 
 Completed list: 
