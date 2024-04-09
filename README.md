@@ -12,5 +12,7 @@ To do list:
 7. Add webpage support, have it so that the user can see or control the tool through the browser(if possible) 
 8. Add a opton for a simple HTTP server 
 9. set wifi addapter to monitor mode for packet injection.
+10. Add support for hash cracking
+11. Brute force hashes from wordlists.
 
 Completed list: 
